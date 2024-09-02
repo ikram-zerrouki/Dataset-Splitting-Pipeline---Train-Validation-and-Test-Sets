@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore directories containing datasets (if any)
+Dataset/
+Processed_Dataset/
